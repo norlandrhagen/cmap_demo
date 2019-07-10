@@ -1,1 +1,2 @@
 opedia==0.2.81
+xlrd
